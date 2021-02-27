@@ -4,3 +4,4 @@ BEM VINDO AO LIVRO DE RECEITAS
 
 - Strogonoff de Frango :chicken:
 - Pavê :eye: 
+- Bolo de cenoura :carrot: 
