@@ -2,4 +2,5 @@
 
 BEM VINDO AO LIVRO DE RECEITAS
 
-- Strogonoff de Frango
+- Strogonoff de Frango :chicken:
+- Pavê :eye: 
